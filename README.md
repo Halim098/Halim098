@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Muhammad Kurniawan Halim, a passionate web dev
 
 ## 🧑‍💻 About Me
 
-I'm an enthusiastic learner and a dedicated developer, always eager to take on new challenges and contribute to exciting projects. My primary interest lies in backend development, where I enjoy creating robust and scalable applications.
+I'm an enthusiastic learner and a dedicated developer, always eager to take on new challenges and contribute to exciting projects. My primary interest lies in backend development.
 
 ## 🛠️ Programming Languages and Tools
 
