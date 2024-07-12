@@ -10,36 +10,30 @@ I'm an enthusiastic learner and a dedicated developer, always eager to take on n
 
 ## 📊 GitHub Statistics
 
-![Muhammad Kurniawan Halim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Muhammad Kurniawan Halim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=halim098&show_icons=true&theme=radical)
 
 ## 🛠️ Programming Languages and Tools
 
 Here are some of the programming languages and tools I work with:
 
 - **Languages:** 
-  - Python
-  - JavaScript
+  - Golang
   - PHP
+  - JavaScrip
   - SQL
-
-- **Frameworks & Libraries:** 
-  - Node.js
-  - Express.js
-  - Django
-  - Laravel
 
 - **Tools & Technologies:** 
   - Git & GitHub
   - Docker
-  - Postman
   - MySQL
+  - PosgreSQL
   - MongoDB
 
 ## 📬 Contact
 
 Feel free to reach out to me via the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-kurniawan-halim/)
+- [Email](mailto:halimml751@gmail.com)
 
 Thank you for visiting my GitHub profile. Let's connect and collaborate on innovative projects!
