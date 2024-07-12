@@ -10,7 +10,12 @@ I'm an enthusiastic learner and a dedicated developer, always eager to take on n
 
 ## 📊 GitHub Statistics
 
-![Muhammad Kurniawan Halim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=halim098&show_icons=true&theme=radical)
+<p align="left">
+<a href="https://github.com/halim098">
+  <img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=halim098&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Halim098&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## 🛠️ Programming Languages and Tools
 
