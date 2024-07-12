@@ -12,8 +12,8 @@ I'm an enthusiastic learner and a dedicated developer, always eager to take on n
 
 <p align="left">
 <a href="https://github.com/halim098">
-  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=halim098&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halim098&layout=compact&langs_count=8&theme=radical"/>
+  <img height="164em" src="https://github-readme-stat-seight-theta.vercel.app/api?username=halim098&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Halim098&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
