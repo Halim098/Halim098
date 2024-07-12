@@ -8,18 +8,14 @@ Welcome to my GitHub profile! I'm Muhammad Kurniawan Halim, a passionate web dev
 
 I'm an enthusiastic learner and a dedicated developer, always eager to take on new challenges and contribute to exciting projects. My primary interest lies in backend development, where I enjoy creating robust and scalable applications.
 
-## 📊 GitHub Statistics
-
-<p align="left">
-<a href="https://github.com/halim098">
-  <img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=halim098&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Halim098&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p>
-
 ## 🛠️ Programming Languages and Tools
 
 Here are some of the programming languages and tools I work with:
+<p align="left">
+<a href="https://github.com/halim098">
+  <img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Halim098&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 - **Languages:** 
   - Golang
