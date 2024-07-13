@@ -1,6 +1,6 @@
 # Muhammad Kurniawan Halim
 
-**Web Developer | Backend Specialist | Computer Science Student**
+**Web Developer | Backend | Computer Science Student**
 
 Welcome to my GitHub profile! I'm Muhammad Kurniawan Halim, a passionate web developer focusing on backend development. I'm currently pursuing my degree in Computer Science at the University of Palangka Raya.
 
