@@ -2,7 +2,7 @@
 
 **Web Developer | Backend | Computer Science Student**
 
-Welcome to my GitHub profile! I'm Muhammad Kurniawan Halim, a passionate web developer focusing on backend development. I'm currently pursuing my degree in Computer Science at the University of Palangka Raya.
+Welcome to my GitHub profile! I'm Muhammad Kurniawan Halim, a passionate web developer focusing on backend development. I'm currently pursuing my degree in Informatics Engineering at the University of Palangka Raya.
 
 ## 🧑‍💻 About Me
 
@@ -31,8 +31,6 @@ Here are some of the programming languages and tools I work with:
   - MongoDB
 
 ## 📬 Contact
-
-Feel free to reach out to me via the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-kurniawan-halim/)
 - [Email](mailto:halimml751@gmail.com)
